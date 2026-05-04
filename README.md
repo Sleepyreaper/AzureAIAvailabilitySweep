@@ -107,7 +107,7 @@ az provider show --namespace Microsoft.CognitiveServices --query registrationSta
 
 ## Real-World Sweep — Microsoft FDPO Tenant (May 4, 2026)
 
-Run against a real internal MSFT FDPO subscription (Brad NonProd, tenant `16b3c013-d300-468d-ac64-7eda0820b6d3`) across all 11 North America regions. This is the kind of output you can expect.
+Run against a real internal MSFT FDPO subscription (Brad NonProd, tenant ``) across all 11 North America regions. This is the kind of output you can expect.
 
 ### Azure AI Search — SKU availability matrix
 
